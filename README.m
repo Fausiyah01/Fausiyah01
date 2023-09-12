@@ -1,2 +1,2 @@
 #! /bin/bash
-  2_assemble
+  3_name
