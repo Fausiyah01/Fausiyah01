@@ -1,4 +1,4 @@
-#!/bin/
+#!/bin/bash
 sodu mv betty/ bin
 
 
