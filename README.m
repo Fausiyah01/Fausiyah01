@@ -1,2 +1,2 @@
 #! /bin/bash
-  5_printf.c
+  6_size.c
