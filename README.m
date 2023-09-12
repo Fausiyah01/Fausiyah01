@@ -1,2 +1,2 @@
-IamaishaHARUNA
-Aisha
+#! /bin/bssh
+ o_preprocessor
