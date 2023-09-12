@@ -1,2 +1,2 @@
-#! /bin/bssh
- o_preprocessor
+#! /bin/bash
+  1_compliler
