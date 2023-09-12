@@ -1,2 +1,2 @@
 #! /bin/bash
-  1_compliler
+  2_assemble
