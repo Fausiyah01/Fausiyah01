@@ -1,5 +1,6 @@
-#!/bin/bash
-who am iHi there 👋
+#!/bin/
+sodu mv betty/ bin
+
 
 <!--
 **Fausiyah01/Fausiyah01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
